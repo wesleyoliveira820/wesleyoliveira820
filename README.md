@@ -20,7 +20,11 @@
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/mail/#search/wesleyoliveiradeveloper@gmail.com" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/wesleydeveloper612/"/>
+  <a href="https://mail.google.com/mail/#search/wesleyoliveiradeveloper@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/#search/wesleyoliveiradeveloper@gmail.com"/>
+  </a>
+  
+  <a href="https://www.instagram.com/wesleydeveloper612" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/wesleydeveloper612"/>
   </a>
 </p>  
