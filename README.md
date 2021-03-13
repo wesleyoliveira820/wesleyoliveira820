@@ -20,6 +20,10 @@
 </p>
 
 <p align="left">
+   <a href="https://www.linkedin.com/in/wesley820/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0078C7?style=flat-square&labelColor=0078C7&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley820/"/>
+  </a>
+  
   <a href="https://mail.google.com/mail/#search/wesleyoliveiradeveloper@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/#search/wesleyoliveiradeveloper@gmail.com"/>
   </a>
