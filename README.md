@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: Visual studio code, Storybook, Vercel, Heroku, Figma, Adobe XD, Git e Github.
+  💼 Tools: Visual studio code, Storybook, Vercel, Heroku, Figma, Adobe XD, Git, Github e Azure DevOps.
 </p>
 
 #### ⭐ Minhas estatísticas
